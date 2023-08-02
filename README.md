@@ -1,4 +1,5 @@
-# Get DNS Record Dynamic Value (Paw Extension)
+# Get DNS Record
+![Input fields of 'Get DNS Record' extension](https://github.com/astzweig/paw-extension-get-dns-record/blob/main/Screenshot.png?raw=true)
 
 A [Paw Extension](https://paw.cloud/docs/extensions/index) to get DNS record values of a user specified domain. It uses [nslookup.io](https://nslookup.io) to get the DNS records.
 
@@ -16,3 +17,6 @@ Open up `Terminal` and type in:
 $ cd <path to your extensions folder>
 $ git clone https://github.com/astzweig/paw-extension-get-dns-record.git ./com.astzweig.GetDNSRecord
 ```
+
+# Usage
+After installing the extension you can add the dynamic value on any input using the context menu.
